@@ -1,0 +1,30 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    sample.txt                                         :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: pthiruma <pthiruma@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2023/02/13 11:40:07 by pthiruma          #+#    #+#              #
+#    Updated: 2023/02/16 14:33:18 by pthiruma         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Der alte Straßenkehrer Beppo verrät seiner Freundin Momo sein \n
+Geheimnis. „Siehst du, Momo“, sagte er dann zum Beispiel, \n
+„es ist so: Manchmal hat man eine sehr lange Strasse vor sich. \n
+Man denkt, die ist so schrecklich lang. \n
+das kann man niemals schaffen, denkt man.“Er blickte eine Weile \n
+schweigend vor sich hin, dann fuhr er fort: „Und dann fängt man an,\n
+sich zu eilen. Und man eilt sich immer mehr. Jedesmal, wenn man aufblickt,\n
+sieht man, daß es gar nicht weniger wird, was noch vor einem liegt. Und man strengt\n
+sich noch mehr an, man kriegt es mit der Angst, und zum Schluss ist man ganz außer Puste\n
+und kann nicht mehr. Und die Straße liegt immer noch vor einem. So darf man es nicht machen.“\n
+Er dachte einige Zeit nach: Dann sprach er weiter: „Man darf nie an die ganze Straße auf einmal\n
+denken, verstehst du? Man muß nur an den nächsten Schritt denken, an den nächsten Atemzug, an den\n
+nächsten Besenstrich. Und immer wieder nur an den nächsten.“\n
+Wieder hielt er inne und überlegte, ehe er hinzufügte: „Dann machte es Freude; das ist wichtig, dann\n
+macht man seine Sache gut. Und so soll es sein.“\n
+Und abermals nach einer langen Pause fuhr er fort: „Auf einmal merkt man, daß man Schritt für Schritt\n
+die ganze Straße gemacht hat. Man hat gar nicht gemerkt wie, und man ist nicht außer Puste.“ Er nickte\n
+vor sich hin und sagte abschließend. „Das ist wichtig.“
